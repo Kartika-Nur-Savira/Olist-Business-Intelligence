@@ -1,5 +1,7 @@
 # Proyek Analisis Data: E-Commerce Public Dataset (Olist)
 
+https://olist-business-intelligence.streamlit.app/
+
 Submission Proyek Akhir untuk Kelas **"Belajar Analisis Data dengan Python"** - Dicoding Indonesia.
 
 - **Nama:** Kartika Nur Savira
